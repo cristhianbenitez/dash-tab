@@ -1,6 +1,6 @@
 # dash-tab
 
-![Screen Shot](https://i.imgur.com/Sj2fhCq.png)
+![Screen Shot](https://i.imgur.com/YHgQtH8.jpg)
 ----
 ## API's Used
 [Open Weather API](https://openweathermap.org/api)
