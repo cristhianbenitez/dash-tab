@@ -1,4 +1,5 @@
 # dash-tab
+![alt text](http://url/to/img.png)
 [Screen Shot](https://i.imgur.com/Sj2fhCq.png)
 ----
 ## API's Used
